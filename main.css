@@ -1,0 +1,15 @@
+* {
+    /*outline: 1px solid rgba(255,0,0,0.4);*/
+}
+
+body {
+    background: url(img/monkey-pattern-vector-1196932.jpg);
+    font-family: 'Viga', sans-serif;;
+}
+.title {
+    color:#d87808;
+    font-weight: bold;
+}
+.opaco {
+    background: rgba(255,250,240,0.8);
+}
